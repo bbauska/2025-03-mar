@@ -5,9 +5,8 @@ table {
   table-layout:fixed;
   width:70%; 
 }
-<!--  background-image:url("https://github.com/bbauska/calendar-2025-Mar/blob/main/images/mcminnville-ufo-600x300.png");  -->
 .month-header {
-  background-image:url(".images/mcminnville-ufo-600x300.png");
+  background-image:url("https://calendar-2025-mar.bauska.org/images/mcminnville-ufo-600x300.png");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
