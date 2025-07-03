@@ -1,3 +1,6 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ css/styles.css of 2025-03-mar making 2025-mar.bauska.org ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 body {
   font-family:Helvetica;
 }
@@ -26,7 +29,6 @@ h1 {
   text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
   vertical-align:top;
 }
-/* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
   font-size:50%;
@@ -68,7 +70,7 @@ ul {
     padding:5px;
     margin:5px 0;
 }
-<!-- added 6-10-25 5:08pm -->
+
 .container {
   background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
