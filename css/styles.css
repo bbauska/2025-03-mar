@@ -1,6 +1,4 @@
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ css/styles.css of 2025-03-mar making 2025-mar.bauska.org ~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+/* ~~~~~~~~~~~~~~~~ css/styles.css of 2025-03-mar making 2025-mar.bauska.org ~~~~~~~~~~~~~~~~ */
 body {
   font-family:Helvetica;
 }
@@ -107,7 +105,7 @@ a:hover::after {
   width: 88%;
 }
 
-<!-- World, National & International Days -->
+/* World, National & International Days */
 .zero-descrimination {
     background-color:#ff80bf;  /* very light pink */
 }
